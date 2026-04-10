@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "mz-chen.github.io",
+    "title": "Meizhu Chen",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi! I am a PhD Candidate in Finance at the University of Western Australia. I currently research financial literacy, financial education and gender."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Working Papers:\nWork in Progress:"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "University of Western Australia, Tutor:\n\nFINA3324 Investment Analysis (Undergraduate)\nFINA1109 Managing Your Personal Finance (Undergraduate)\nFINA3307 Trading in Securities Markets (Undergraduate)\nFINA1221 Introduction to Finance (Undergraduate)"
   }
 ]

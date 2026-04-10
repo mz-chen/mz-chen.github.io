@@ -1,11 +1,17 @@
 ---
-title: "mz-chen.github.io"
+#title: "Meizhu Chen"
+image: images/photo_2024.jpeg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/meizhu-chen/
+    - text: Email
+      href: mailto:meizhu.chen@uwa.edu.au
 ---
 
-This is a Quarto website.
+Hi! I am a PhD Candidate in Finance at the University of Western Australia. I currently research financial literacy, financial education and gender.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
