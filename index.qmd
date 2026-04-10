@@ -1,6 +1,6 @@
 ---
 #title: "Meizhu Chen"
-image: images/photo_2024.jpeg
+image: images/photo_2024.png
 toc: false
 about: 
   template: trestles
