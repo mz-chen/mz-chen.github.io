@@ -5,11 +5,17 @@ project:
 website:
   title: "Meizhu Chen"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - research.qmd
-      - teaching.qmd
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+  page-footer:
+    left: "© 2026 Meizhu Chen"
+    right: "Built with [Quarto](https://quarto.org/)"
+
 
 format:
   html:
